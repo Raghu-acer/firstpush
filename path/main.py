@@ -6,3 +6,6 @@ add base feature 2
 
 fix the bug
 hello
+
+
+# adding bug fixing
